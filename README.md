@@ -39,7 +39,7 @@ Este repositorio reúne proyectos seleccionados de desarrollo web y móvil, base
 
 ## Criterios de publicación
 
-El contenido fue curado para mostrar trabajo técnico sin publicar credenciales, archivos `.env`, claves privadas, contraseñas, `node_modules`, instaladores ni tareas de Semana Tecmi.
+El contenido fue curado para mostrar trabajo técnico sin publicar credenciales, archivos `.env`, claves privadas, contraseñas, `node_modules`ni instaladores.
 
 ## Contacto
 
