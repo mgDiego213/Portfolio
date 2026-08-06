@@ -24,6 +24,13 @@ Este repositorio reúne proyectos seleccionados de desarrollo web y móvil, base
 | [DevOps y AWS](projects/devops/) | Automatización e infraestructura | AWS, Docker, CloudFormation, CI/CD |
 | [Ciberseguridad](projects/cybersecurity/) | Evaluación de ransomware | CVE/CVSS, forense, ISACA |
 | [Redes](projects/networking/) | Diseño y diagnóstico | Cisco Packet Tracer, IPv4, DHCP |
+| [Personal Web](projects/personal-web/) | Interfaces web y landing page | HTML, CSS, JavaScript, Node.js |
+| [Mobile CRUD](projects/mobile-crud/) | Flujo CRUD móvil | Kotlin |
+| [Java OOP](projects/java-oop/) | Modelo académico orientado a objetos | Java |
+| [Fundamentos](projects/fundamentals/) | Lógica y pseudocódigo | Pseudocódigo |
+| [Pokémon AI Deck Builder](projects/pokemon-ai-deck-builder/) | Concepto de producto con IA | Core ML, FastAPI, visión por computadora |
+| [Cloud Computing](projects/cloud/) | Diseño de solución cloud | AWS, arquitectura, seguridad |
+| [Software Engineering](projects/software-engineering/) | Planeación y prácticas ágiles | Requerimientos, sprints, documentación |
 
 ## Repositorios relacionados
 
